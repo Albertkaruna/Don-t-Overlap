@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberGame.Plugins", "NumberGame.Plugins.csproj", "{854558B5-1EC7-0594-66AD-AF682EA78A9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberGame", "NumberGame.csproj", "{5A41BC5C-9397-705F-B289-C0A99F07CC07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberGame.Editor", "NumberGame.Editor.csproj", "{2D40AD7B-4421-E1B5-692C-CF7C402567FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{854558B5-1EC7-0594-66AD-AF682EA78A9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{854558B5-1EC7-0594-66AD-AF682EA78A9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{854558B5-1EC7-0594-66AD-AF682EA78A9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{854558B5-1EC7-0594-66AD-AF682EA78A9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A41BC5C-9397-705F-B289-C0A99F07CC07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A41BC5C-9397-705F-B289-C0A99F07CC07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A41BC5C-9397-705F-B289-C0A99F07CC07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A41BC5C-9397-705F-B289-C0A99F07CC07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D40AD7B-4421-E1B5-692C-CF7C402567FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D40AD7B-4421-E1B5-692C-CF7C402567FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D40AD7B-4421-E1B5-692C-CF7C402567FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D40AD7B-4421-E1B5-692C-CF7C402567FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

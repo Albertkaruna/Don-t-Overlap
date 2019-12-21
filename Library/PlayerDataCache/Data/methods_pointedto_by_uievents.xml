@@ -1,0 +1,26 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="UIManager">
+			<method name="ProgressResetNo"/>
+			<method name="Info"/>
+			<method name="FeedbackMail"/>
+			<method name="Next"/>
+			<method name="Previous"/>
+			<method name="ProgressResetYes"/>
+			<method name="Next"/>
+			<method name="GameQuitYes"/>
+			<method name="GameQuitNo"/>
+			<method name="BackPanel"/>
+			<method name="Audio"/>
+			<method name="Temp"/>
+			<method name="ShowHideMenu"/>
+			<method name="Facebook"/>
+			<method name="RateTheGame"/>
+			<method name="Settings"/>
+			<method name="Twitter"/>
+			<method name="ResetGame"/>
+			<method name="Play"/>
+			<method name="BackPanel"/>
+		</type>
+	</assembly>
+</linker>

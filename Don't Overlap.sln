@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Don't Overlap.Plugins", "Don't Overlap.Plugins.csproj", "{3E3E3A1B-9E30-0C8C-F747-9AE572647928}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Don't Overlap", "Don't Overlap.csproj", "{FA594B38-56DB-23BF-B786-3AAF258F7B0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Don't Overlap.Editor", "Don't Overlap.Editor.csproj", "{F2F47846-EE92-83DD-74CC-78F419A45710}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E3E3A1B-9E30-0C8C-F747-9AE572647928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E3E3A1B-9E30-0C8C-F747-9AE572647928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E3E3A1B-9E30-0C8C-F747-9AE572647928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E3E3A1B-9E30-0C8C-F747-9AE572647928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA594B38-56DB-23BF-B786-3AAF258F7B0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA594B38-56DB-23BF-B786-3AAF258F7B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA594B38-56DB-23BF-B786-3AAF258F7B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA594B38-56DB-23BF-B786-3AAF258F7B0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2F47846-EE92-83DD-74CC-78F419A45710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F47846-EE92-83DD-74CC-78F419A45710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2F47846-EE92-83DD-74CC-78F419A45710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2F47846-EE92-83DD-74CC-78F419A45710}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
