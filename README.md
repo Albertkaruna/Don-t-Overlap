@@ -5,7 +5,7 @@ King is the King, Now queen wants to reach the king but first, she has to go to 
 ### What is this repository for? ###
 It's working number drawing game. It was the exact game of the game that i used to play in my school and college days.
 
-![Alt text](/Static/DontOverlap1.png?raw=true "Dont Overlap")
-![Alt text](/Static/DontOverlap2.png?raw=true "Dont Overlap")
-![Alt text](/Static/DontOverlap3.png?raw=true "Dont Overlap")
+![Alt text](/Static/DontOverlap1.jpg?raw=true "Dont Overlap")
+![Alt text](/Static/DontOverlap2.jpg?raw=true "Dont Overlap")
+![Alt text](/Static/DontOverlap3.jpg?raw=true "Dont Overlap")
 
